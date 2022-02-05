@@ -5,8 +5,8 @@ Process spawning in Linux
 
 Создать config — файл, содержащий следующую информацию:
 
-Processes — число процессов;
-Inputprefix — входной префикс; 
+Processes — число процессов;          
+Inputprefix — входной префикс;           
 Outputprefix — выходной префикс;
 maxFilesize — максимальный допустимый размер файла ( в байтах).
 
