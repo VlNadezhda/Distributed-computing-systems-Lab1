@@ -4,6 +4,7 @@ Process spawning in Linux
 Постановка задачи:
 
 Создать config — файл, содержащий следующую информацию:
+
 Processes — число процессов;
 Inputprefix — входной префикс; 
 Outputprefix — выходной префикс;
