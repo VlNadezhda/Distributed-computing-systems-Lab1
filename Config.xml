@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config><Processes>10</Processes><Inputprefix>i</Inputprefix><Outputprefix>o</Outputprefix><MaxFileSize>100</MaxFileSize></config>
